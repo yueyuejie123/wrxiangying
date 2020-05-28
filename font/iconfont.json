@@ -1,0 +1,44 @@
+{
+  "id": "",
+  "name": "",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "2328358",
+      "name": "搜索",
+      "font_class": "sousuo",
+      "unicode": "e627",
+      "unicode_decimal": 58919
+    },
+    {
+      "icon_id": "11474197",
+      "name": "arrow-down",
+      "font_class": "arrow-down",
+      "unicode": "e6eb",
+      "unicode_decimal": 59115
+    },
+    {
+      "icon_id": "11474202",
+      "name": "category",
+      "font_class": "category",
+      "unicode": "e6ec",
+      "unicode_decimal": 59116
+    },
+    {
+      "icon_id": "11474221",
+      "name": "cart-Empty",
+      "font_class": "cart-Empty",
+      "unicode": "e6ef",
+      "unicode_decimal": 59119
+    },
+    {
+      "icon_id": "11474271",
+      "name": "account",
+      "font_class": "account",
+      "unicode": "e6f8",
+      "unicode_decimal": 59128
+    }
+  ]
+}

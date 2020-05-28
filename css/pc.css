@@ -1,0 +1,131 @@
+@charset "utf-8";
+.pc_show{
+    display: block;
+}
+.pc_hide{
+    display: none;
+}
+.gWidth{
+    padding-left: 50px;
+    padding-right: 50px;
+    box-sizing: border-box;
+}
+.header .p2{
+    height: 45px;
+    float: left;
+    padding-left: 60px;
+    font-family: '宋体';
+    font-size: 12px;
+    line-height: 45px;
+    box-sizing: border-box;
+}
+.header .p2 span{
+    font-size: 20px;
+    position: absolute;
+    left:800px;top:0;
+}
+.header .p2 .s1{
+    box-sizing: border-box;
+    padding-left: 400px;
+}
+.header .p2 input{
+    border: 1px solid #000;
+    margin-left: 60px;
+    display: inline-block;
+    width: 478px;
+    height: 28px;
+    padding-left: 10px;
+    padding-right: 20px;
+    box-sizing: border-box;
+}
+.header .p2 a{
+    color: #000;
+    box-sizing: border-box;
+    padding-left: 560px;
+}
+.header .p2 .s2{
+    box-sizing: border-box;
+    padding-left: 610px;
+}
+.nav1 p{
+    margin-left: 10px;
+}
+.nav ul{
+    height: 50px;
+    float: left;
+}
+.nav li{
+    float: left;
+    font-family: '宋体';
+    font-size: 12px;
+    line-height: 50px;
+    margin-left: 58px;
+}
+.content .u1{
+    height: 70px;
+    margin-top: 15px;
+    margin-left: 200px;
+}
+
+.content .u1 li{
+    width: 134px;
+    height: 40px;
+    margin-right: 20px;
+}
+.content .u2 li{
+    display: inline-block;
+    width: 215px;
+    height: 270px;
+    border: 1px solid #DCDCDC;
+    margin-right: 24px;
+}
+.content .i2,.content .i3{
+    width: 49%;
+    height: 250px;
+}
+.content .i3{
+    float:right;
+}
+.content .i2{
+    float: left;
+}
+.footer>ul>li{
+    width: 25%;
+    float: left;
+}
+.footer .qtzd{
+    padding-top: 34px;
+    border-width: 0px;
+    padding-bottom: 18px;
+}
+.footer .xl{
+    line-height: 30px;
+}
+#xl2{
+    padding-left: 0px;
+}
+.footer h3{
+    float: left;
+}
+.footer .zg{
+    float: right;
+    margin-right: 100px;
+    margin-top: 33px;
+}
+.footer .zg li{
+    float: left;
+    margin: 0 7px;
+}
+.footer{
+    position: relative;
+    padding-bottom: 15px;
+}
+.footer .fdlo{
+    position: absolute;
+    right: 40px; bottom:17px;
+    padding: 0;
+}
+.footer h3 img{
+    margin-top: 30px;
+}
+

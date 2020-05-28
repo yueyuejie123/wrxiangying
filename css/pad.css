@@ -1,0 +1,38 @@
+@charset "utf-8";
+.pad_show{
+    display: block;
+}
+.pad_hide{
+    display: none;
+}
+.nav1{
+    height: 23px;
+}
+.nav1 p{
+    margin-left: 40px;
+    font-family: '宋体';
+    font-size: 12px;
+    line-height: 23px;
+    color: #999999;
+    font-weight: bold;
+}
+.content .u1{
+    height: 60px;
+    margin-left: 40px;
+}
+.content .u1 li{
+    width: 96px;
+    height: 40px;
+    margin-right: 20px;
+}
+.content .u2{}
+.content .u2 li{
+    display: inline-block;
+    width: 329px;
+    height: 380px;
+    border: 1px solid #DCDCDC;
+    margin-bottom: 24px;
+    margin-left: 6px;
+}
+
+
